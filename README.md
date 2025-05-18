@@ -5,7 +5,7 @@
 
 The AI Diagnoser is a smart, AI-powered medical assistant designed to support healthcare professionals in diagnosing patients efficiently and accurately. This system reduces human diagnostic errors by analyzing vitals, symptoms, test results, and patient history to suggest diagnoses, tests, and treatments.
 
-*`Note: This project is currently in the theoretical and planning phase, with the full proposal included. The AI modeling and data processing are ongoing.`*\
+*`Note: This project is currently in the theoretical and planning phase, with the full proposal included. The AI modeling and data processing are ongoing.`*
 
 ## Key Features
 
